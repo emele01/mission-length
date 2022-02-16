@@ -1,0 +1,7 @@
+TESTS = {
+     "Basics": [
+         {
+             "input": [Begin],
+             "answer": 5,
+             "explanation": "The number of characters"
+         }
